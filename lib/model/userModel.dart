@@ -13,8 +13,8 @@ class User {
 
   factory User.fromJson(Map<String, dynamic> json) => User(
         login: json["login"],
-        avatarURL: json["avatarURL"],
-        htmlURL: json["htmlURL"],
+        avatarURL: json["avatar_url"],
+        htmlURL: json["html_url"],
       );
 
   Map<String, dynamic> toJson() => {
