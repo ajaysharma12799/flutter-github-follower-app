@@ -4,8 +4,8 @@ import 'package:flutter/foundation.dart';
 class Github {
   final String githubUserName;
   final String apiURL = "https://api.github.com";
-  static String clientID = "e0bb9bf5b6b69d0b3b13";
-  static String clientSecret = "bf87aae5a9f4f3bfe8e530704a14214372605405";
+  static String clientID = "Your Client ID";
+  static String clientSecret = "Your Client Secret";
   final String query = "?client_id=${clientID}&client_secret=${clientSecret}";
 
   Github({@required this.githubUserName});
