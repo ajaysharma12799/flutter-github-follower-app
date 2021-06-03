@@ -8,3 +8,16 @@ Packages Used :-
 4. flutter_svg
 5. flutter_launcher_icons
 ```
+
+## Project Images
+
+<img 
+    src="ScreenShots/HomeScreen.png"
+    alt="Home Screen"
+    width="250px"
+/>
+<img 
+    src="ScreenShots/FollowingScreen.png"
+    alt="Following Screen"
+    width="250px"
+/>
